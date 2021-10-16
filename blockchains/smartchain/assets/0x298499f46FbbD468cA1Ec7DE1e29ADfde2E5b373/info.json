@@ -2,12 +2,12 @@
   "id": "0x298499f46fbbd468ca1ec7de1e29adfde2e5b373",
   "name": "ToyDOGE",
   "symbol": "TDG",
-  "reflections": true
   "type": "BEP20",
   "decimals": 9,
   "description": "ToyDOGE is a charity driven token with utility which strives to help those who cannot help themselves..",
   "website": "https://toydoge.net/",
   "explorer": "https://bscscan.com/token/0x298499f46fbbd468ca1ec7de1e29adfde2e5b373",
+  "reflections": true
   "social": {
     "twitter": "https://twitter.com/DogeToy",
     "telegram": "https://t.me/ToyDOGECOIN"
